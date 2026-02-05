@@ -1,13 +1,12 @@
 
 **Financial Performance Dashboard 💰**
+---
 📌 Introduction
 
 This project showcases a Financial Performance Dashboard built in Power BI to monitor balances, profits, expenses, and transaction activity across multiple currencies and branches.
 
 The dashboard enables finance teams and decision-makers to quickly assess financial health, customer value, and year-over-year performance using interactive visuals and KPIs.
-📷 Dashboard Preview
 
-<img width="1280" height="684" alt="image" src="https://github.com/user-attachments/assets/c1816e4b-1a0e-40ff-af91-08f73a255ff6" />
 
 🧰 Tools Used
 
@@ -42,6 +41,10 @@ The dashboard enables finance teams and decision-makers to quickly assess financ
 - Interactive slicers for currency selection
 
 **📊 Dashboard Overview**
+
+📷 Dashboard Preview
+
+<img width="1280" height="684" alt="image" src="https://github.com/user-attachments/assets/c1816e4b-1a0e-40ff-af91-08f73a255ff6" />
 
 The dashboard allows users to analyze:
 
